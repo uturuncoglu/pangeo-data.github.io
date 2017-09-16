@@ -297,3 +297,18 @@
     - paleoclimate
     - HPC
     - physical oceanography
+    
+- first_name: Ufuk Utku
+  last_name: Turuncoglu
+  institution: Istanbul Technical University
+  website: http://faculty.itu.edu.tr/turuncogl1/
+  email: ufuk.turuncoglu@itu.edu.tr
+  github: uturuncoglu
+  twitter: UfukTuruncoglu
+  orcid: 0000-0001-5499-7326
+  tags:
+    - physical oceanography
+    - climate
+    - air-sea interaction
+    - design and development of regional earth system models
+    - scientific visualization (inc. in-situ visualization)
